@@ -33,9 +33,11 @@ git config --global merge.tool filemerge
 -->
 ```
 
-<a>
+<!-- <a>
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=aasirmutwalli22&count_private=true&show_icons=true&theme=dark" />
 </a>
 <a>
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aasirmutwalli22&theme=dark&hide=html" />
-</a>
+</a> -->
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=aasirmutwalli22&count_private=true&show_icons=true&theme=dark" />
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aasirmutwalli22&theme=dark&hide=html" />
